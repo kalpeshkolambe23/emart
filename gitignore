@@ -1,0 +1,26 @@
+# Ignore build output
+target/
+bin/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.class
+*.log
+
+# Ignore Eclipse/STS project files
+.classpath
+.project
+.settings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency libraries
+*.jar
+*.war
+*.ear
