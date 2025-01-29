@@ -1,0 +1,32 @@
+========================================================
+Clone the Repository :
+git clone https://github.com/kalpeshkolambe23/emart-project.git
+
+===========================================================
+
+Create and Work on a Branch : 
+git checkout -b <branch-name>
+
+# Check the current branch
+git branch
+
+# Add changes to the staging area
+git add .
+
+# Commit changes with a message
+git commit -m "--------------"
+
+======================================================
+
+Push Changes to the Remote Repository :
+git push origin <branch-name>
+
+=========================================================
+
+to delete branch locally : git branch -d <branch name>
+to delete branch remotly : git push origin --delete <branch name>
+
+===========================================================
+
+DAILY ( 1st task) :-
+git pull origin main
